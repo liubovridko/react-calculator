@@ -155,6 +155,7 @@ function FormulaInput() {
             label="Formula Input"
             variant="outlined"
             fullWidth
+            style={{marginTop:'10px'}}
             value={inputValue}
             onChange={(e) => {
               const value = e.target.value;

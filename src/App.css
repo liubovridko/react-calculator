@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.MuiBox-root .react-tagsinput {
+  padding: 10px 10px;
+}
